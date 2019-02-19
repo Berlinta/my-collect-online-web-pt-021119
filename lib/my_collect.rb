@@ -3,7 +3,3 @@ def my_collect(array)
   empty_array = []
   i += 1
 end
-
-def my_collect(languages)
-  my_collect(languages) { |lang| lang.upcase }
-end
